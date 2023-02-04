@@ -15,4 +15,5 @@ Define String.prototype.toAlternatingCase (or a similar function/method such as 
 "1a2b3c4d5e".toAlternatingCase()  === "1A2B3C4D5E"
 <br><br>
 "String.prototype.toAlternatingCase".toAlternatingCase() === "sTRING.PROTOTYPE.TOaLTERNATINGcASE"
+<br>
 As usual, your function/method should be pure, i.e. it should not mutate the original string.
